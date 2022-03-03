@@ -1,4 +1,4 @@
-#command to use when is denied
+# command to use when is denied
 sudo chmod 666 /var/run/docker.sock
 
 # tell docker to package our application
