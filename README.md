@@ -12,6 +12,6 @@ docker image ls
 # run image from any machine which is using docker 
 docker run hello-docker
 
-# I can go to another machine or production and pull and run the image 
+# I can go to another machine or production, test, pull and run the image 
 https://labs.play-with-docker.com 
 
